@@ -1,32 +1,32 @@
 {
   "historical-figures": [
     {
-      "name": "",
+      "name": "Albert Einstein",
       "birthdate": "",
       "dateofdeath": "",
       "profession":"",
-      "masterpiece":""
+      "masterpiece":"Teoría de la Relatividad"
     },
     {
-      "name": "",
+      "name": "William Shakespeare",
       "birthdate": "",
       "dateofdeath": "",
       "profession":"",
-      "masterpiece":""
+      "masterpiece":"Romeo y Julieta, Hamlet y Macbeth"
     },
     {
-      "name": "",
+      "name": "Wolfgang Amadeus Mozart",
       "birthdate": "",
       "dateofdeath": "",
       "profession":"",
-      "masterpiece":""
+      "masterpiece":"Composiciones Musicales: Prolífico compositor de óperas, sinfonías y conciertos"
     },
     {
-      "name": "",
+      "name": "Leonardo da Vinci",
       "birthdate": "",
       "dateofdeath": "",
       "profession":"",
-      "masterpiece":""
+      "masterpiece":"La Mona Lisa"
     }
   ]
 }
