@@ -1,14 +1,32 @@
 {
-  "users": [
+  "historical-figures": [
     {
-      "name": "Triana",
-      "email": "Triana287@gmail.com",
-      "id": "1"
+      "name": "",
+      "birthdate": "",
+      "dateofdeath": "",
+      "profession":"",
+      "masterpiece":""
     },
     {
-      "name": "Alejandra",
-      "email": "Alejandra3@gmail.com",
-      "id": "85f6"
+      "name": "",
+      "birthdate": "",
+      "dateofdeath": "",
+      "profession":"",
+      "masterpiece":""
+    },
+    {
+      "name": "",
+      "birthdate": "",
+      "dateofdeath": "",
+      "profession":"",
+      "masterpiece":""
+    },
+    {
+      "name": "",
+      "birthdate": "",
+      "dateofdeath": "",
+      "profession":"",
+      "masterpiece":""
     }
   ]
 }

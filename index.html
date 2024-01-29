@@ -3,10 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Historical Figures</title>
 </head>
 <body>
-    
+    <form id="historical-figures">
+        <label for="new-name">Nombre</label><input id="new-name" type="text">
+        <label for="birthdate">Fecha de Nacimiento</label><input id="birthdate" type="date">
+        <label for="dateofdeath">Fecha de Defunción</label><input id="dateofdeath" type="date">
+        <label for="profession">Profession</label><input id="profession" type="text">
+        <label for="masterpiece">Obra maestra</label><input id="masterpiece" type="text">
+        <button type="submit" onclick="createUser()">Añadir</button>
+    </form>
+    <button onclick="printUsers()">Cargar Info</button>
+    <button onclick="postUser()">+</button>
+    <section id="historical-figures-list">
+    </section>
     <script src="./src/services.js"></script>
 </body>
 </html>
