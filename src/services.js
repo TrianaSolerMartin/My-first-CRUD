@@ -1,24 +1,24 @@
 //Método GET R(READ) del CRUD
 
-async function getHistoricalFigures() { //pedimos datos al servidor
+async function getFigures() { //pedimos datos al servidor
 
     const result = await fetch("http://localhost:3000/users")
     const data= await result.json() 
     return data
 }
 
-let sectionTag = document.getElementById("historical-figures-list")
+let sectionTag = document.getElementById("figures-list")
 
-async function printHistoricalFigures () {
-    let HistoricalFigures = await getHistoricalFigures()
-    console.log(HistoricalFigures)
-    HistoricalFigures.map (HistoricalFigure => {
+async function printFigures () {
+    let Figures = await getFigures()
+    console.log(Figures)
+    Figures.map (Figure => {
         sectionTag.innerHTML +=
-        `<h3>${HistoricalFigures.name}</h3>
-        <p>${HistoricalFigures.birthdate}</p>
-        <p>${HistoricalFigures.dateofdeath}</p>
-        <p>${HistoricalFigures.profession}</p>
-        <p>${HistoricalFigures.masterpiece}</p>
-        <button onclick="deleteUser('${user.id}')">Delete</button>` 
+        `<h3>${Figure.name}</h3>
+        <p>${Figure.birthdate}</p>
+        <p>${Figure.dateofdeath}</p>
+        <p>${Figure.profession}</p>
+        <p>${Figure.masterpiece}</p>
+        <button onclick="deleteFigure('${Figure.id}')">Delete</button>` 
     })
 }
