@@ -22,3 +22,13 @@ async function printFigures () {
         <button onclick="deleteFigure('${figure.id}')">Delete</button>` 
     })
 }
+
+
+//METODO DELETE D (delete) del CRUD
+
+async function deleteFigure(id){
+    const result = await fetch(`http://localhost:3000/figures/${id}`,{
+        method: "DELETE"  
+    });
+    return result
+}
