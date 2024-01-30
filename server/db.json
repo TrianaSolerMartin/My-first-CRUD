@@ -2,30 +2,30 @@
   "historical-figures": [
     {
       "name": "Albert Einstein",
-      "birthdate": "",
-      "dateofdeath": "",
-      "profession":"",
+      "birthdate": "14/03/1879",
+      "dateofdeath": "18/04/1955",
+      "profession":"Matemático",
       "masterpiece":"Teoría de la Relatividad"
     },
     {
       "name": "William Shakespeare",
-      "birthdate": "",
-      "dateofdeath": "",
-      "profession":"",
+      "birthdate": "26/04/1565",
+      "dateofdeath": "26/04/1616",
+      "profession":"Escritor",
       "masterpiece":"Romeo y Julieta, Hamlet y Macbeth"
     },
     {
       "name": "Wolfgang Amadeus Mozart",
-      "birthdate": "",
-      "dateofdeath": "",
-      "profession":"",
+      "birthdate": "27/01/1756",
+      "dateofdeath": "07/12/1791",
+      "profession":"Músico",
       "masterpiece":"Composiciones Musicales: Prolífico compositor de óperas, sinfonías y conciertos"
     },
     {
       "name": "Leonardo da Vinci",
-      "birthdate": "",
-      "dateofdeath": "",
-      "profession":"",
+      "birthdate": "15/04/1452",
+      "dateofdeath": "02/05/1519",
+      "profession":"Artista e inventor",
       "masterpiece":"La Mona Lisa"
     }
   ]
