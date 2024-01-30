@@ -5,114 +5,136 @@
       "birthdate": "14/03/1879",
       "dateofdeath": "18/04/1955",
       "profession": "Matemático",
-      "masterpiece": "Teoría de la Relatividad"
+      "masterpiece": "Teoría de la Relatividad",
+      "id": "d4db"
     },
     {
       "name": "William Shakespeare",
       "birthdate": "26/04/1565",
       "dateofdeath": "26/04/1616",
       "profession": "Escritor",
-      "masterpiece": "Romeo y Julieta, Hamlet y Macbeth"
+      "masterpiece": "Romeo y Julieta, Hamlet y Macbeth",
+      "id": "7db4"
     },
     {
       "name": "Wolfgang Amadeus Mozart",
       "birthdate": "27/01/1756",
       "dateofdeath": "07/12/1791",
       "profession": "Músico",
-      "masterpiece": "Composiciones Musicales: Prolífico compositor de óperas, sinfonías y conciertos"
+      "masterpiece": "Composiciones Musicales: Prolífico compositor de óperas, sinfonías y conciertos",
+      "id": "7276"
     },
     {
       "name": "Leonardo da Vinci",
       "birthdate": "15/04/1452",
       "dateofdeath": "02/05/1519",
       "profession": "Artista e inventor",
-      "masterpiece": "La Mona Lisa"
+      "masterpiece": "La Mona Lisa",
+      "id": "df41"
     },
     {
       "name": "Ada Lovelace",
       "birthdate": "10/12/1815",
       "dateofdeath": "27/11/1852",
       "profession": "Matemática",
-      "masterpiece": "Primer algoritmo para la Máquina Analítica de Charles Babbage"
+      "masterpiece": "Primer algoritmo para la Máquina Analítica de Charles Babbage",
+      "id": "ba13"
     },
     {
       "name": "Mahatma Gandhi",
       "birthdate": "02/10/1869",
       "dateofdeath": "30/01/1948",
       "profession": "Líder político y pacifista",
-      "masterpiece": "Movimiento de independencia de la India mediante la resistencia no violenta"
+      "masterpiece": "Movimiento de independencia de la India mediante la resistencia no violenta",
+      "id": "c137"
     },
     {
       "name": "Marie Curie",
       "birthdate": "07/11/1867",
       "dateofdeath": "04/07/1934",
       "profession": "Física y química",
-      "masterpiece": "Investigaciones pioneras sobre la radiactividad"
+      "masterpiece": "Investigaciones pioneras sobre la radiactividad",
+      "id": "8595"
     },
     {
       "name": "Nelson Mandela",
       "birthdate": "18/07/1918",
       "dateofdeath": "05/12/2013",
       "profession": "Político y activista",
-      "masterpiece": "Liderazgo en la lucha contra el apartheid y construcción de una nación reconciliada"
+      "masterpiece": "Liderazgo en la lucha contra el apartheid y construcción de una nación reconciliada",
+      "id": "3be0"
     },
     {
       "name": "Amelia Earhart",
       "birthdate": "24/07/1897",
       "dateofdeath": "02/07/1937",
       "profession": "Aviadora",
-      "masterpiece": "Primer mujer en volar en solitario sobre el Océano Atlántico"
+      "masterpiece": "Primer mujer en volar en solitario sobre el Océano Atlántico",
+      "id": "b21d"
     },
     {
       "name": "Alan Turing",
       "birthdate": "23/06/1912",
       "dateofdeath": "07/06/1954",
       "profession": "Matemático y científico de la computación",
-      "masterpiece": "Padre de la informática, contribuciones clave en el desciframiento de códigos durante la Segunda Guerra Mundial"
+      "masterpiece": "Padre de la informática, contribuciones clave en el desciframiento de códigos durante la Segunda Guerra Mundial",
+      "id": "06bd"
     },
     {
       "name": "Cleopatra",
       "birthdate": "69 a.C.",
       "dateofdeath": "12/08/30 a.C.",
       "profession": "Reina de Egipto",
-      "masterpiece": "Líder político y diplomático en el antiguo Egipto, conocida por su inteligencia y habilidades estratégicas"
+      "masterpiece": "Líder político y diplomático en el antiguo Egipto, conocida por su inteligencia y habilidades estratégicas",
+      "id": "93cf"
     },
     {
       "name": "Leonhard Euler",
       "birthdate": "15/04/1707",
       "dateofdeath": "18/09/1783",
       "profession": "Matemático y físico suizo",
-      "masterpiece": "Contribuciones fundamentales en topología, teoría de grafos y matemáticas aplicadas"
+      "masterpiece": "Contribuciones fundamentales en topología, teoría de grafos y matemáticas aplicadas",
+      "id": "a173"
     },
     {
       "name": "Rosa Parks",
       "birthdate": "04/02/1913",
       "dateofdeath": "24/10/2005",
       "profession": "Activista por los derechos civiles",
-      "masterpiece": "Acto de resistencia al negarse a ceder su asiento en el autobús, desencadenando el movimiento por los derechos civiles en EE. UU."
+      "masterpiece": "Acto de resistencia al negarse a ceder su asiento en el autobús, desencadenando el movimiento por los derechos civiles en EE. UU.",
+      "id": "40fa"
     },
     {
       "name": "Marco Polo",
       "birthdate": "15/09/1254",
       "dateofdeath": "08/01/1324",
       "profession": "Explorador y mercader veneciano",
-      "masterpiece": "Relato de sus viajes por Asia en el libro 'Il Milione'"
+      "masterpiece": "Relato de sus viajes por Asia en el libro 'Il Milione'",
+      "id": "77ae"
     },
     {
-      "id": "729f",
-      "name": "Charles Darwin",
-      "birthdate": "Feb 12, 1809",
-      "dateofdeath": "Apr 19, 1882",
-      "profession": "Activista por los derechos civiles",
-      "masterpiece": "Acto de resistencia al negarse a ceder su asiento en el autobús, desencadenando el movimiento por los derechos civiles en EE. UU."
-    },
-    {
-      "id": "015b",
-      "name": "maria carei",
-      "birthdate": "2024-01-04",
-      "dateofdeath": "2024-01-23",
+      "id": "753a",
+      "name": "Socrates",
+      "birthdate": "1961-06-08",
+      "dateofdeath": "2024-01-12",
       "profession": "FIlosofo",
       "masterpiece": "Contribuciones: Fundador de la filosofía occidental, maestro de Platón y mentor de Aristóteles. Método socrático de enseñanza y reflexión ética."
+    },
+    {
+      "id": "e9c7",
+      "name": "",
+      "birthdate": "",
+      "dateofdeath": "",
+      "profession": "",
+      "masterpiece": ""
+    },
+    {
+      "id": "6de4",
+      "name": "",
+      "birthdate": "",
+      "dateofdeath": "",
+      "profession": "",
+      "masterpiece": ""
     }
   ]
 }
