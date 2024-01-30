@@ -4,29 +4,115 @@
       "name": "Albert Einstein",
       "birthdate": "14/03/1879",
       "dateofdeath": "18/04/1955",
-      "profession":"Matemático",
-      "masterpiece":"Teoría de la Relatividad"
+      "profession": "Matemático",
+      "masterpiece": "Teoría de la Relatividad"
     },
     {
       "name": "William Shakespeare",
       "birthdate": "26/04/1565",
       "dateofdeath": "26/04/1616",
-      "profession":"Escritor",
-      "masterpiece":"Romeo y Julieta, Hamlet y Macbeth"
+      "profession": "Escritor",
+      "masterpiece": "Romeo y Julieta, Hamlet y Macbeth"
     },
     {
       "name": "Wolfgang Amadeus Mozart",
       "birthdate": "27/01/1756",
       "dateofdeath": "07/12/1791",
-      "profession":"Músico",
-      "masterpiece":"Composiciones Musicales: Prolífico compositor de óperas, sinfonías y conciertos"
+      "profession": "Músico",
+      "masterpiece": "Composiciones Musicales: Prolífico compositor de óperas, sinfonías y conciertos"
     },
     {
       "name": "Leonardo da Vinci",
       "birthdate": "15/04/1452",
       "dateofdeath": "02/05/1519",
-      "profession":"Artista e inventor",
-      "masterpiece":"La Mona Lisa"
+      "profession": "Artista e inventor",
+      "masterpiece": "La Mona Lisa"
+    },
+    {
+      "name": "Ada Lovelace",
+      "birthdate": "10/12/1815",
+      "dateofdeath": "27/11/1852",
+      "profession": "Matemática",
+      "masterpiece": "Primer algoritmo para la Máquina Analítica de Charles Babbage"
+    },
+    {
+      "name": "Mahatma Gandhi",
+      "birthdate": "02/10/1869",
+      "dateofdeath": "30/01/1948",
+      "profession": "Líder político y pacifista",
+      "masterpiece": "Movimiento de independencia de la India mediante la resistencia no violenta"
+    },
+    {
+      "name": "Marie Curie",
+      "birthdate": "07/11/1867",
+      "dateofdeath": "04/07/1934",
+      "profession": "Física y química",
+      "masterpiece": "Investigaciones pioneras sobre la radiactividad"
+    },
+    {
+      "name": "Nelson Mandela",
+      "birthdate": "18/07/1918",
+      "dateofdeath": "05/12/2013",
+      "profession": "Político y activista",
+      "masterpiece": "Liderazgo en la lucha contra el apartheid y construcción de una nación reconciliada"
+    },
+    {
+      "name": "Amelia Earhart",
+      "birthdate": "24/07/1897",
+      "dateofdeath": "02/07/1937",
+      "profession": "Aviadora",
+      "masterpiece": "Primer mujer en volar en solitario sobre el Océano Atlántico"
+    },
+    {
+      "name": "Alan Turing",
+      "birthdate": "23/06/1912",
+      "dateofdeath": "07/06/1954",
+      "profession": "Matemático y científico de la computación",
+      "masterpiece": "Padre de la informática, contribuciones clave en el desciframiento de códigos durante la Segunda Guerra Mundial"
+    },
+    {
+      "name": "Cleopatra",
+      "birthdate": "69 a.C.",
+      "dateofdeath": "12/08/30 a.C.",
+      "profession": "Reina de Egipto",
+      "masterpiece": "Líder político y diplomático en el antiguo Egipto, conocida por su inteligencia y habilidades estratégicas"
+    },
+    {
+      "name": "Leonhard Euler",
+      "birthdate": "15/04/1707",
+      "dateofdeath": "18/09/1783",
+      "profession": "Matemático y físico suizo",
+      "masterpiece": "Contribuciones fundamentales en topología, teoría de grafos y matemáticas aplicadas"
+    },
+    {
+      "name": "Rosa Parks",
+      "birthdate": "04/02/1913",
+      "dateofdeath": "24/10/2005",
+      "profession": "Activista por los derechos civiles",
+      "masterpiece": "Acto de resistencia al negarse a ceder su asiento en el autobús, desencadenando el movimiento por los derechos civiles en EE. UU."
+    },
+    {
+      "name": "Marco Polo",
+      "birthdate": "15/09/1254",
+      "dateofdeath": "08/01/1324",
+      "profession": "Explorador y mercader veneciano",
+      "masterpiece": "Relato de sus viajes por Asia en el libro 'Il Milione'"
+    },
+    {
+      "id": "729f",
+      "name": "Charles Darwin",
+      "birthdate": "Feb 12, 1809",
+      "dateofdeath": "Apr 19, 1882",
+      "profession": "Activista por los derechos civiles",
+      "masterpiece": "Acto de resistencia al negarse a ceder su asiento en el autobús, desencadenando el movimiento por los derechos civiles en EE. UU."
+    },
+    {
+      "id": "015b",
+      "name": "maria carei",
+      "birthdate": "2024-01-04",
+      "dateofdeath": "2024-01-23",
+      "profession": "FIlosofo",
+      "masterpiece": "Contribuciones: Fundador de la filosofía occidental, maestro de Platón y mentor de Aristóteles. Método socrático de enseñanza y reflexión ética."
     }
   ]
 }
